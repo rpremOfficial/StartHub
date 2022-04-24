@@ -36,4 +36,4 @@ requirement.<br />
 ➢ Application and request type platform for user 4<br />
 
 
-**Note!! : We can,t share hole project because some rule**
+**Note!! : We can,t share hole project because of some rules**
